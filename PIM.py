@@ -33,7 +33,7 @@ while True:
             continue
 
         print("Você gostaria de sair do sistema ou retornar as opções?")
-        resposta = input("Digite 1 para sair ou 2 para retornar:")
+        resposta = input("Digite 1 para sair ou 2 para retornar as opções:")
         if resposta == "1":
             print("Retornando ao início")
             break
